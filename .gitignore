@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+dataset/*
+models/*
+split-data/*
